@@ -41,3 +41,9 @@ Output Management: PNG, PDF, and ZIP archive generation
 
 
 The code demonstrates excellent software engineering practices with modular design, comprehensive error handling, and user-friendly interfaces. It's particularly well-suited for educational institutions, corporate training programs, and event management scenarios.
+
+
+
+The presentation and other detais of the project are given in th eattached pdf 
+
+Thank you !!
