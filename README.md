@@ -1,4 +1,4 @@
-# Certitificate-generator-
+# Certificate -generator-
 
 Project Description - Clear overview of the certificate generator
 
